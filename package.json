@@ -1,0 +1,21 @@
+{
+  "name": "xay",
+  "version": "0.0.1",
+  "description": "xay xey kral omexey saka saka xay",
+  "main": "bot.js",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "cjs-loader": "^0.1.0",
+    "discord.js": "^12.2.0",
+    "loader.js": "^4.7.0",
+    "syntax": "^1.6.1"
+  },
+  "devDependencies": {
+    "babel-register": "^6.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omexay",
+  "license": "ISC"
+}
